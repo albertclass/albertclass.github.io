@@ -14,4 +14,4 @@
 [gimmick:theme (inverse: false)](bootstrap)
 
 <!-- show a theme chooser in the menu bar -->
-[gimmick:ThemeChooser](Change theme)
+<!-- [gimmick:ThemeChooser](Change theme) -->
