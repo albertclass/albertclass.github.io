@@ -1,20 +1,19 @@
-# YourPageTitle
+---
+date: 2018-12-25 19:18
+status: public
+title: YourPageTitle
+---
 
-[Page1](page1.md)
-[Page2](page2.md)
-[Page3](page3.md)
+# 龙首村恶霸的技术存档
 
-[SubMenuName]()
-
-  * [SubPage1](subpage/page1.md)
-  * [SubPage2](subpage/page2.md)
-  * [SubPage3](subpage/page3.md)
+[文摘](menu.md)
+[博客](blog.md)
+[仓库]()
+ * [ezlib](resp/ezlib.md)
+ * [server](resp/server.md)
 
 <!-- set a default theme -->
 [gimmick:theme (inverse: false)](bootstrap)
 
 <!-- show a theme chooser in the menu bar -->
 [gimmick:ThemeChooser](Change theme)
-
-<!-- show a fork me on github ribbon -->
-[gimmick:forkmeongithub](http://github.com/Dynalon/mdwiki-seed/)
