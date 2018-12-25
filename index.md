@@ -1,4 +1,4 @@
-About
-=====
+欢迎
+====
 
-This is an MDwiki seed project. Edit the files to adopt to your website or wiki style.
+来到龙首村恶霸的小筑
