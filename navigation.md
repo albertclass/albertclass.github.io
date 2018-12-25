@@ -9,7 +9,7 @@
 * [server](resp/server.md)
 
 <!-- set a default theme -->
-[gimmick:theme (inverse: false)](bootstrap)
+[gimmick:theme (inverse: false)](slate)
 
 <!-- show a theme chooser in the menu bar -->
-[gimmick:ThemeChooser](Change theme)
+<!-- [gimmick:ThemeChooser](Change theme) -->
