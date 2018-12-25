@@ -2,9 +2,12 @@
 # 龙首村恶霸的技术存档
 
 [文摘](menu.md)
-[博客](blog.md)
+
+[博客]()
+
 * [2018年](blog-2018/index.md)
 * [2019年](blog-2019/index.md)
+
 [仓库]()
 
 * [ezlib](resp/ezlib.md)
