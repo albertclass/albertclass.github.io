@@ -2,9 +2,11 @@
 # 龙首村恶霸的技术存档
 
 [积累]()
+
 * [git](papers/git/index.md)
 * [linux](papers/linux/index.md)
 * [gdb](papers/gdb/index.md)
+
 [博客]()
 
 * [2018年](blog-2018/index.md)
